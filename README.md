@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Two players and Single player with pc
+Two players and single player with pc
