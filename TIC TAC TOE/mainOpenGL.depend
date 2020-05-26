@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1589077045 source:c:\users\lenovo\desktop\tutorial_1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1581452829 c:\users\lenovo\desktop\tutorial_1\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1589077340 source:c:\users\lenovo\desktop\tutorial_1\tic_tac_toe_ai.c
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+
+1590519444 source:c:\users\lenovo\desktop\tutorial_2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1581452829 c:\users\lenovo\desktop\tutorial_2\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
